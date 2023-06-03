@@ -1,4 +1,4 @@
-##Jupyter Notebook
+## Jupyter Notebook
 
 More details here: [https://docs.jupyter.org/en/latest/start/index.html](https://docs.jupyter.org/en/latest/start/index.html) 
 > tl;dr: Jupyter Notebook is a web-based utility to let you code with Python interactively. In addition, you can create and share notebook files so others can play around with your code in the same format.
